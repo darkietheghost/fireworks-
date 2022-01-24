@@ -1,0 +1,19 @@
+<ul style="list-style-type : circle;">
+<li>one</li>
+<li>two</li>
+<li>three</li>
+<ul>
+
+<p>This is a liat with letters</p>
+<ol style="list-style-type: upper-alpha;">
+<li>one</li>
+<li>two</li>
+<li>three</li>
+</ol>
+
+<p style="font-family: impact;">This list is quite strange.</p>
+<ul>
+<li style="display: inline; padding: 10px; background color blue; color: white;">one</li>
+<li style="display: inline; padding: 10px; background color blue; color: white;">two</li>
+<li style="display: inline; padding: 10px; background color blue; color: white;">three</li>
+</ul>
